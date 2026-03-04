@@ -1,7 +1,6 @@
 ---
 name: BlueprintSpecialist
 description: "小说梗概设计与编写，负责将框架拆解为逐章细化梗概"
-model: sonnet
 memory: project
 ---
 
