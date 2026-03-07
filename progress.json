@@ -1,0 +1,29 @@
+{
+  "project_name": "Novel",
+  "total_chapters": 300,
+  "generated_chapters": 0,
+  "current_phase": "writing",
+  "phases_progress": {
+    "world_building": {
+      "completed": true,
+      "files": ["/世界观.md", "/矛盾.md"]
+    },
+    "character_design": {
+      "completed": true,
+      "files": ["/role/李衍.md", "/role/墨鸢.md", "/role/卫鞅.md", "/role/芈月.md", "/role/赵奢.md"]
+    },
+    "framework": {
+      "completed": true,
+      "files": ["/框架.md"]
+    },
+    "outline": {
+      "completed": true,
+      "files": ["/outline/梗概-第1章-穿越与囚禁.md", "/outline/梗概-第2章-暴雨验证.md", "/outline/梗概-第3章-牢中博弈.md", "/outline/梗概-第4章-暗流涌动.md", "/outline/梗概-第5章-星象预言.md", "/outline/梗概-第6章-朝堂初现.md", "/outline/梗概-第7章-技术献策.md", "/outline/梗概-第8章-客卿生活.md", "/outline/梗概-第9章-技术改良.md", "/outline/梗概-第10章-造纸初试.md"]
+    },
+    "writing": {
+      "completed": false,
+      "files": []
+    }
+  },
+  "last_updated": "2026-03-07T18:15:09.168611"
+}

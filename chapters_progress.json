@@ -1,0 +1,50 @@
+{
+  "project_name": "战国纪元：天命之争",
+  "total_chapters": 300,
+  "completed_chapters": 0,
+  "current_batch": {
+    "batch_number": 1,
+    "start_chapter": 1,
+    "end_chapter": 10,
+    "status": "in_progress"
+  },
+  "batches": [
+    {"batch": 1, "chapters": "1-10", "status": "in_progress"},
+    {"batch": 2, "chapters": "11-20", "status": "pending"},
+    {"batch": 3, "chapters": "21-30", "status": "pending"},
+    {"batch": 4, "chapters": "31-40", "status": "pending"},
+    {"batch": 5, "chapters": "41-50", "status": "pending"},
+    {"batch": 6, "chapters": "51-60", "status": "pending"},
+    {"batch": 7, "chapters": "61-70", "status": "pending"},
+    {"batch": 8, "chapters": "71-80", "status": "pending"},
+    {"batch": 9, "chapters": "81-90", "status": "pending"},
+    {"batch": 10, "chapters": "91-100", "status": "pending"},
+    {"batch": 11, "chapters": "101-110", "status": "pending"},
+    {"batch": 12, "chapters": "111-120", "status": "pending"},
+    {"batch": 13, "chapters": "121-130", "status": "pending"},
+    {"batch": 14, "chapters": "131-140", "status": "pending"},
+    {"batch": 15, "chapters": "141-150", "status": "pending"},
+    {"batch": 16, "chapters": "151-160", "status": "pending"},
+    {"batch": 17, "chapters": "161-170", "status": "pending"},
+    {"batch": 18, "chapters": "171-180", "status": "pending"},
+    {"batch": 19, "chapters": "181-190", "status": "pending"},
+    {"batch": 20, "chapters": "191-200", "status": "pending"},
+    {"batch": 21, "chapters": "201-210", "status": "pending"},
+    {"batch": 22, "chapters": "211-220", "status": "pending"},
+    {"batch": 23, "chapters": "221-230", "status": "pending"},
+    {"batch": 24, "chapters": "231-240", "status": "pending"},
+    {"batch": 25, "chapters": "241-250", "status": "pending"},
+    {"batch": 26, "chapters": "251-260", "status": "pending"},
+    {"batch": 27, "chapters": "261-270", "status": "pending"},
+    {"batch": 28, "chapters": "271-280", "status": "pending"},
+    {"batch": 29, "chapters": "281-290", "status": "pending"},
+    {"batch": 30, "chapters": "291-300", "status": "pending"}
+  ],
+  "quality_checks": {
+    "character_consistency": true,
+    "plot_coherence": true,
+    "historical_accuracy": true,
+    "literary_quality": true
+  },
+  "last_updated": "2026-03-04"
+}
